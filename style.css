@@ -1,0 +1,17 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  background-color: #f0f0f0;
+  font-family: "Roboto Condensed", "Roboto", sans-serif;
+  overflow-x: hidden;
+  text-align: center;
+  padding: 40px;
+  margin: 20px;
+  transition: all 725ms ease-in-out;
+}
+nav {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
